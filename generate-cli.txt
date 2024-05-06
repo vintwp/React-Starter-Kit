@@ -1,0 +1,3 @@
+    "component": "generate-react component",
+    "component-base": "generate-react component --type=base-scss",
+    "component-module": "generate-react component --type=module-scss"
